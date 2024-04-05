@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="611f832283550210129055b6feaad368" extends="task" label="Solicitações " max_length="40" name="x_1343294_vst_solicitacoes" type="collection"/>
+</database>
