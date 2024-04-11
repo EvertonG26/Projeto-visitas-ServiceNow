@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Visitas generated</description>
+        <name>view</name>
+        <page display_value="Visitas">20ac1b78af6d4210298a5f0d5210491d</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-11 18:01:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>28ac1b781e6d4210f7a99f72a2c4450c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Visitas" source="x_1343294_vst">097bc36683910210129055b6feaad3b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
+        <sys_update_name>sys_ux_page_property_28ac1b781e6d4210f7a99f72a2c4450c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-11 18:01:17</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1343294_vst.20ac1b78af6d4210298a5f0d5210491d.root.view</unique_name>
+        <value>workspace-visitas-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=28ac1b781e6d4210f7a99f72a2c4450c"/>
+</record_update>

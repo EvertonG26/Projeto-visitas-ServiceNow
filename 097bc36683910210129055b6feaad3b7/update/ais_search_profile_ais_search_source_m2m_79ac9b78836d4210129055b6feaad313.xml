@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="visitas Search Profile">e0ac1b787c6d421075201d8b26b1d21d</profile>
+        <search_source display_value="Solicitações ">b9ac9b78836d4210129055b6feaad310</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-11 18:01:21</sys_created_on>
+        <sys_id>79ac9b78836d4210129055b6feaad313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>visitas Search Profile.Solicitações </sys_name>
+        <sys_package display_value="Visitas" source="x_1343294_vst">097bc36683910210129055b6feaad3b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_79ac9b78836d4210129055b6feaad313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-11 18:01:21</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Castro visitantes Table</name>
+        <retention_policy/>
+        <source>x_1343294_vst_castro_visitantes</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-11 18:01:21</sys_created_on>
+        <sys_id>06ac9b78836d4210129055b6feaad341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Castro visitantes Table</sys_name>
+        <sys_package display_value="Visitas" source="x_1343294_vst">097bc36683910210129055b6feaad3b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
+        <sys_update_name>ais_datasource_06ac9b78836d4210129055b6feaad341</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-11 18:01:21</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>
