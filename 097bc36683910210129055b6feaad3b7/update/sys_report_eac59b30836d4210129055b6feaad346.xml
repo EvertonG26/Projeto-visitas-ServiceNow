@@ -26,7 +26,7 @@
         <chart_title_x_position>0</chart_title_x_position>
         <chart_title_y_position>0</chart_title_y_position>
         <chart_width>600</chart_width>
-        <color/>
+        <color display_value="Default Color">de699435d7033100b4964ebfae610331</color>
         <color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette>
         <colors/>
         <column/>
@@ -47,8 +47,8 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
         <field_list>number,situaocao,visitante.identificador,visitante.nome,visitante.e_mail,visitante.telefone,visitante.empresa,assigned_to,assigned_to.phone</field_list>
-        <filter table="x_1343294_vst_solicitacoes">situaocao=4^situaocao=5^ORDERBYsituaocao<item display_value="Expirado \ Cancelado" endquery="false" field="situaocao" goto="false" newquery="false" operator="=" or="false" value="4"/>
-            <item display_value="Concluido" endquery="false" field="situaocao" goto="false" newquery="false" operator="=" or="false" value="5"/>
+        <filter table="x_1343294_vst_solicitacoes">situaocao!=4^situaocao!=5^ORDERBYsituaocao<item display_value="Expirado \ Cancelado" endquery="false" field="situaocao" goto="false" newquery="false" operator="!=" or="false" value="4"/>
+            <item display_value="Concluido" endquery="false" field="situaocao" goto="false" newquery="false" operator="!=" or="false" value="5"/>
             <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="situaocao"/>
         </filter>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
@@ -109,14 +109,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-11 17:31:21</sys_created_on>
         <sys_id>eac59b30836d4210129055b6feaad346</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Lista</sys_name>
         <sys_package display_value="Visitas" source="x_1343294_vst">097bc36683910210129055b6feaad3b7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
         <sys_update_name>sys_report_eac59b30836d4210129055b6feaad346</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-11 17:31:21</sys_updated_on>
+        <sys_updated_on>2024-04-15 14:01:03</sys_updated_on>
         <table>x_1343294_vst_solicitacoes</table>
         <title>Lista</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

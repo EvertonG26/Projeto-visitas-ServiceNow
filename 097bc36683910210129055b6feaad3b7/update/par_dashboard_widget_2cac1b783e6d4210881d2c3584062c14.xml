@@ -3,7 +3,7 @@
         <canvas display_value="">acac1b78086d421045dad23afea00315</canvas>
         <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
         <component_props>{"table":"x_1343294_vst_solicitacoes","fixedQuery":"","listTitle":"My Work","columns":"number,situaocao,visitante.identificador,visitante.nome,visitante.e_mail,visitante.telefone,visitante.empresa","query":"active=true^situaocaoIN1,2,3^ORDERBYsituaocao","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":true,"hideTitle":true,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"refreshRequested":"","noDebounce":"","limit":10}</component_props>
-        <h>18</h>
+        <h>12</h>
         <name/>
         <stored_component/>
         <sys_class_name>par_dashboard_widget</sys_class_name>
@@ -12,7 +12,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2cac1b783e6d4210881d2c3584062c14</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Visitas" source="x_1343294_vst">097bc36683910210129055b6feaad3b7</sys_package>
@@ -20,11 +20,11 @@
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
         <sys_update_name>par_dashboard_widget_2cac1b783e6d4210881d2c3584062c14</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-11 18:52:01</sys_updated_on>
+        <sys_updated_on>2024-04-15 13:34:43</sys_updated_on>
         <visualization/>
         <w>48</w>
         <widget_props/>
         <x>0</x>
-        <y>3</y>
+        <y>16</y>
     </par_dashboard_widget>
 </record_update>

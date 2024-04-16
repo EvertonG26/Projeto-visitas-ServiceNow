@@ -13,7 +13,7 @@
         <mobile_title>Open</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1343294_vst_solicitacoes</name>
-        <order>12</order>
+        <order>120</order>
         <override_menu_roles>false</override_menu_roles>
         <query>active=true^EQ</query>
         <report/>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b432132683550210129055b6feaad3f3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Open</sys_name>
         <sys_overrides/>
         <sys_package display_value="Visitas" source="x_1343294_vst">097bc36683910210129055b6feaad3b7</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
         <sys_update_name>sys_app_module_b432132683550210129055b6feaad3f3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-04 17:29:21</sys_updated_on>
+        <sys_updated_on>2024-04-12 12:35:39</sys_updated_on>
         <timeline_page/>
         <title>Open</title>
         <uncancelable>false</uncancelable>

@@ -33,7 +33,7 @@
         <name>x_1343294_vst_solicitacoes</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
         <sys_update_name>sys_dictionary_x_1343294_vst_solicitacoes_situaocao</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-05 13:39:43</sys_updated_on>
+        <sys_updated_on>2024-04-12 18:45:23</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
