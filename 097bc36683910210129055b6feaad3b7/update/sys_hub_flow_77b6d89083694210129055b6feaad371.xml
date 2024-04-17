@@ -11,7 +11,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>wfsolicitacoesvisitas</internal_name>
-        <label_cache>[{"name":"Created_1.current.assigned_to.phone","label":"Trigger - Record Created➛Solicitações  Record➛Assigned to➛Business phone","reference":"","reference_display":"Business phone","type":"ph_number","base_type":"ph_number","parent_table_name":"sys_user","column_name":"phone"},{"name":"Created_1.current.assigned_to.department","label":"Trigger - Record Created➛Solicitações  Record➛Assigned to➛Department","reference":"cmn_department","reference_display":"Department","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"department"},{"name":"Created_1.current.assigned_to","label":"Trigger - Record Created➛Solicitações  Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"assigned_to"},{"name":"Created_1.current.localidade.phone","label":"Trigger - Record Created➛Solicitações  Record➛Localidade➛Phone","reference":"","reference_display":"Phone","type":"string","base_type":"string","parent_table_name":"cmn_location","column_name":"phone"},{"name":"Created_1.current.localidade.state","label":"Trigger - Record Created➛Solicitações  Record➛Localidade➛State / Province","reference":"","reference_display":"State / Province","type":"string","base_type":"string","parent_table_name":"cmn_location","column_name":"state"},{"name":"Created_1.current.localidade.street","label":"Trigger - Record Created➛Solicitações  Record➛Localidade➛Street","reference":"","reference_display":"Street","type":"multi_two_lines","base_type":"multi_two_lines","parent_table_name":"cmn_location","column_name":"street"},{"name":"Created_1.current.localidade","label":"Trigger - Record Created➛Solicitações  Record➛Localidade","reference":"cmn_location","reference_display":"Location","type":"reference","base_type":"reference","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"localidade"},{"name":"Created_1.current.u_end_date","label":"Trigger - Record Created➛Solicitações  Record➛Data da Saída","reference":"","reference_display":"Data da Saída","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"u_end_date"},{"name":"Created_1.current.u_start_date","label":"Trigger - Record Created➛Solicitações  Record➛Data de Entrada","reference":"","reference_display":"Data de Entrada","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"u_start_date"},{"name":"74c350e9-5589-425c-b778-54ad8967ab9d.record.number","label":"1 - Update Record➛Solicitações  Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"number"},{"name":"Created_1.current.visitante.nome","label":"Trigger - Record Created➛Solicitações  Record➛Visitante➛Nome ","reference":"","reference_display":"Nome ","type":"string","base_type":"string","parent_table_name":"x_1343294_vst_castro_visitantes","column_name":"nome"},{"name":"Created_1.current.opened_by.email","label":"Trigger - Record Created➛Solicitações  Record➛Opened by➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"Created_1.current.visitante.e_mail","label":"Trigger - Record Created➛Solicitações  Record➛Visitante➛E-mail","reference":"","reference_display":"E-mail","type":"string","base_type":"string","parent_table_name":"x_1343294_vst_castro_visitantes","column_name":"e_mail"},{"name":"74c350e9-5589-425c-b778-54ad8967ab9d.record.visitante.e_mail","label":"1 - Update Record➛Solicitações  Record➛Visitante➛E-mail","reference":"","reference_display":"E-mail","type":"string","base_type":"string","parent_table_name":"x_1343294_vst_castro_visitantes","column_name":"e_mail"},{"name":"74c350e9-5589-425c-b778-54ad8967ab9d.record.assigned_to.email","label":"1 - Update Record➛Solicitações  Record➛Assigned to➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"afafaf50-a952-4669-b014-94b5bc11e89f.record.assigned_to.email","label":"4 - Update Record➛Solicitações  Record➛Assigned to➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"Created_1.current.assigned_to.email","label":"Trigger - Record Created➛Solicitações  Record➛Assigned to➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"74c350e9-5589-425c-b778-54ad8967ab9d.record","label":"1 - Update Record➛Solicitações  Record","reference":"x_1343294_vst_solicitacoes","reference_display":"Solicitações ","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created_1.current.sys_created_on","label":"Trigger - Record Created➛Solicitações  Record➛Created","reference":"","reference_display":"Created","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"sys_created_on"},{"name":"{{static.6816f79cc0a8016401c5a33be04be441}}","label":"System Administrator","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"Created_1.current.opened_by.manager","label":"Trigger - Record Created➛Solicitações  Record➛Opened by➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"Created_1.current","label":"Trigger - Record Created➛Solicitações  Record","reference":"x_1343294_vst_solicitacoes","reference_display":"Solicitações ","type":"reference","base_type":"reference","attributes":{}},{"name":"Created_1.current.number","label":"Trigger - Record Created➛Solicitações  Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"number"},{"name":"b012af0c-1205-4130-b24a-4db0ea70da60.approval_state","label":"2 - Ask For Approval➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice","choices":[{"label":"-- None --","value":"","order":0.0},{"label":"Not Yet Requested","value":"not requested","order":1.0},{"label":"Requested","value":"requested","order":2.0},{"label":"Approved","value":"approved","order":3.0},{"label":"Rejected","value":"rejected","order":4.0},{"label":"Cancelled","value":"cancelled","order":5.0},{"label":"No Longer Required","value":"not_required","order":6.0},{"label":"Skipped","value":"skipped","order":7.0}],"attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"b012af0c-1205-4130-b24a-4db0ea70da60.approval_state","label":"2 - Ask For Approval➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice","choices":[{"label":"-- None --","value":"","order":0.0},{"label":"Not Yet Requested","value":"not requested","order":1.0},{"label":"Requested","value":"requested","order":2.0},{"label":"Approved","value":"approved","order":3.0},{"label":"Rejected","value":"rejected","order":4.0},{"label":"Cancelled","value":"cancelled","order":5.0},{"label":"No Longer Required","value":"not_required","order":6.0},{"label":"Skipped","value":"skipped","order":7.0}],"attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created_1.current.number","label":"Trigger - Record Created➛Solicitações  Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"number"},{"name":"Created_1.current","label":"Trigger - Record Created➛Solicitações  Record","reference":"x_1343294_vst_solicitacoes","reference_display":"Solicitações ","type":"reference","base_type":"reference","attributes":{}},{"name":"Created_1.current.opened_by.manager","label":"Trigger - Record Created➛Solicitações  Record➛Opened by➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"{{static.6816f79cc0a8016401c5a33be04be441}}","label":"System Administrator","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"Created_1.current.sys_created_on","label":"Trigger - Record Created➛Solicitações  Record➛Created","reference":"","reference_display":"Created","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"sys_created_on"},{"name":"74c350e9-5589-425c-b778-54ad8967ab9d.record","label":"1 - Update Record➛Solicitações  Record","reference":"x_1343294_vst_solicitacoes","reference_display":"Solicitações  Record","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created_1.current.assigned_to.email","label":"Trigger - Record Created➛Solicitações  Record➛Assigned to➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"afafaf50-a952-4669-b014-94b5bc11e89f.record.assigned_to.email","label":"4 - Update Record➛Solicitações  Record➛Assigned to➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"74c350e9-5589-425c-b778-54ad8967ab9d.record.assigned_to.email","label":"1 - Update Record➛Solicitações  Record➛Assigned to➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"74c350e9-5589-425c-b778-54ad8967ab9d.record.visitante.e_mail","label":"1 - Update Record➛Solicitações  Record➛Visitante➛E-mail","reference":"","reference_display":"E-mail","type":"string","base_type":"string","parent_table_name":"x_1343294_vst_castro_visitantes","column_name":"e_mail"},{"name":"Created_1.current.visitante.e_mail","label":"Trigger - Record Created➛Solicitações  Record➛Visitante➛E-mail","reference":"","reference_display":"E-mail","type":"string","base_type":"string","parent_table_name":"x_1343294_vst_castro_visitantes","column_name":"e_mail"},{"name":"Created_1.current.opened_by.email","label":"Trigger - Record Created➛Solicitações  Record➛Opened by➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"Created_1.current.visitante.nome","label":"Trigger - Record Created➛Solicitações  Record➛Visitante➛Nome ","reference":"","reference_display":"Nome ","type":"string","base_type":"string","parent_table_name":"x_1343294_vst_castro_visitantes","column_name":"nome"},{"name":"74c350e9-5589-425c-b778-54ad8967ab9d.record.number","label":"1 - Update Record➛Solicitações  Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"number"},{"name":"Created_1.current.u_start_date","label":"Trigger - Record Created➛Solicitações  Record➛Data de Entrada","reference":"","reference_display":"Data de Entrada","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"u_start_date"},{"name":"Created_1.current.u_end_date","label":"Trigger - Record Created➛Solicitações  Record➛Data da Saída","reference":"","reference_display":"Data da Saída","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"u_end_date"},{"name":"Created_1.current.localidade","label":"Trigger - Record Created➛Solicitações  Record➛Localidade","reference":"cmn_location","reference_display":"Location","type":"reference","base_type":"reference","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"localidade"},{"name":"Created_1.current.localidade.street","label":"Trigger - Record Created➛Solicitações  Record➛Localidade➛Street","reference":"","reference_display":"Street","type":"multi_two_lines","base_type":"multi_two_lines","parent_table_name":"cmn_location","column_name":"street"},{"name":"Created_1.current.localidade.state","label":"Trigger - Record Created➛Solicitações  Record➛Localidade➛State / Province","reference":"","reference_display":"State / Province","type":"string","base_type":"string","parent_table_name":"cmn_location","column_name":"state"},{"name":"Created_1.current.localidade.phone","label":"Trigger - Record Created➛Solicitações  Record➛Localidade➛Phone","reference":"","reference_display":"Phone","type":"string","base_type":"string","parent_table_name":"cmn_location","column_name":"phone"},{"name":"Created_1.current.assigned_to","label":"Trigger - Record Created➛Solicitações  Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_1343294_vst_solicitacoes","column_name":"assigned_to"},{"name":"Created_1.current.assigned_to.department","label":"Trigger - Record Created➛Solicitações  Record➛Assigned to➛Department","reference":"cmn_department","reference_display":"Department","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"department"},{"name":"Created_1.current.assigned_to.phone","label":"Trigger - Record Created➛Solicitações  Record➛Assigned to➛Business phone","reference":"","reference_display":"Business phone","type":"ph_number","base_type":"ph_number","parent_table_name":"sys_user","column_name":"phone"},{"name":"b012af0c-1205-4130-b24a-4db0ea70da60.__action_status__.message","label":"2 - Ask For Approval➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}}]</label_cache>
         <master_snapshot>627b389c83e94210129055b6feaad31d</master_snapshot>
         <name>wf-solicitacoes-visitas</name>
         <natlang/>
@@ -23,14 +23,14 @@
         <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
-        <status>published</status>
+        <status>draft</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:19:44</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>77b6d89083694210129055b6feaad371</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>wf-solicitacoes-visitas</sys_name>
         <sys_overrides/>
         <sys_package display_value="Visitas" source="x_1343294_vst">097bc36683910210129055b6feaad3b7</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
         <sys_update_name>sys_hub_flow_77b6d89083694210129055b6feaad371</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:00:15</sys_updated_on>
+        <sys_updated_on>2024-04-16 22:39:15</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=77b6d89083694210129055b6feaad371"/>
@@ -94,10 +94,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:25:04</sys_created_on>
         <sys_id>82f7589483694210129055b6feaad357</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:00:15</sys_updated_on>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -243,7 +243,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -302,14 +302,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:25:04</sys_created_on>
         <sys_id>b9f7589483694210129055b6feaad34f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:00:15</sys_updated_on>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -327,7 +327,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -386,14 +386,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:25:04</sys_created_on>
         <sys_id>c2f7589483694210129055b6feaad353</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:00:15</sys_updated_on>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -425,10 +425,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:46:38</sys_created_on>
         <sys_id>0aec901c83694210129055b6feaad363</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:04:38</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 22:39:15</sys_updated_on>
         <ui_id>92c0d201-280b-4fc8-b8ff-4d74c1e4e9e1</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=0aec901c83694210129055b6feaad363"/>
@@ -514,10 +514,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:32:20</sys_created_on>
         <sys_id>14a9d41883694210129055b6feaad384</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:04:38</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <ui_id>b012af0c-1205-4130-b24a-4db0ea70da60</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=14a9d41883694210129055b6feaad384"/>
@@ -667,10 +667,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:46:38</sys_created_on>
         <sys_id>46ec901c83694210129055b6feaad35a</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:04:38</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <ui_id>151e6614-739f-4248-8246-b667f792c66d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=46ec901c83694210129055b6feaad35a"/>
@@ -757,10 +757,10 @@ Requisição de Visita foi Rejeitada^situaocao=4^active=false</value>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:36:09</sys_created_on>
         <sys_id>5c8ad45883694210129055b6feaad31e</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:04:38</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <ui_id>afafaf50-a952-4669-b014-94b5bc11e89f</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=5c8ad45883694210129055b6feaad31e"/>
@@ -846,10 +846,10 @@ Requisição de Visita foi Rejeitada^situaocao=4^active=false</value>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:25:04</sys_created_on>
         <sys_id>82f7589483694210129055b6feaad36a</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:04:38</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <ui_id>74c350e9-5589-425c-b778-54ad8967ab9d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=82f7589483694210129055b6feaad36a"/>
@@ -921,10 +921,10 @@ Requisição de Visita foi Rejeitada^situaocao=4^active=false</value>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 16:50:18</sys_created_on>
         <sys_id>9939b8d883e94210129055b6feaad3b6</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:04:38</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <ui_id>67565653-ca58-4f11-8244-80a43f95b086</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9939b8d883e94210129055b6feaad3b6"/>
@@ -949,12 +949,12 @@ Requisição de Visita foi Rejeitada^situaocao=4^active=false</value>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 16:50:18</sys_created_on>
         <sys_id>1939b8d883e94210129055b6feaad3b9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-09 16:50:18</sys_updated_on>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>&lt;p data-tinymcerootblock=""&gt;Segue a sua informa&amp;ccedil;&amp;atilde;o de acesso.&lt;/p&gt;
-&lt;p data-tinymcerootblock=""&gt;Requisi&amp;ccedil;&amp;atilde;o:&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:ef922075-7a25-4f7f-83b8-16f5bb899040}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:ef922075-7a25-4f7f-83b8-16f5bb899040}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="Trigger &amp;gt; Solicita&amp;ccedil;&amp;otilde;es  Record &amp;gt; Number"&gt;&lt;span class="pill-start"&gt;Trigger&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;...&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;Number&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_ef922075-7a25-4f7f-83b8-16f5bb899040" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Requisi&amp;ccedil;&amp;atilde;o:&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:ef922075-7a25-4f7f-83b8-16f5bb899040}}"&gt;&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:ef922075-7a25-4f7f-83b8-16f5bb899040}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="Trigger - Record Created &amp;gt; Solicita&amp;ccedil;&amp;otilde;es  Record &amp;gt; Number"&gt;&lt;span class="pill-start"&gt;Trigger - Record Created&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;...&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;Number&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_ef922075-7a25-4f7f-83b8-16f5bb899040" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p data-tinymcerootblock=""&gt;Periodo de "&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:15b27ba3-3b80-4c78-a9d4-0a04ba661eac}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="Trigger &amp;gt; Solicita&amp;ccedil;&amp;otilde;es  Record &amp;gt; Data de Entrada"&gt;&lt;span class="pill-start"&gt;Trigger&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;...&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;Data de Entrada&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_15b27ba3-3b80-4c78-a9d4-0a04ba661eac" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;" &amp;aacute; "&lt;span class="data_pill  accepts_transform_functions" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:97519402-800b-4c53-97bc-7b1eebb14aea}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="Trigger &amp;gt; Solicita&amp;ccedil;&amp;otilde;es  Record &amp;gt; Data da Sa&amp;iacute;da"&gt;&lt;span class="pill-start"&gt;Trigger&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;...&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;Data da Sa&amp;iacute;da&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_97519402-800b-4c53-97bc-7b1eebb14aea" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;"&lt;/p&gt;
 &lt;table&gt;
 &lt;tbody&gt;
@@ -1017,6 +1017,18 @@ foi autorizada. </value>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>{{Created_1.current.visitante.e_mail}} </value>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>9939b8d883e94210129055b6feaad3b6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-16 22:39:14</sys_created_on>
+        <sys_id>0d3c8aea83690210129055b6feaad353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
+        <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
+        <value>{{b012af0c-1205-4130-b24a-4db0ea70da60.__action_status__.message}}</value>
+    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=9939b8d883e94210129055b6feaad3b6"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=9939b8d883e94210129055b6feaad3b6"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=77b6d89083694210129055b6feaad371"/>
@@ -1044,10 +1056,10 @@ foi autorizada. </value>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:46:38</sys_created_on>
         <sys_id>0aec901c83694210129055b6feaad35c</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:00:15</sys_updated_on>
+        <sys_updated_on>2024-04-16 22:39:15</sys_updated_on>
         <ui_id>f50821fb-9d68-482a-8c9c-c159ab7ee73a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1117,10 +1129,10 @@ foi autorizada. </value>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:36:09</sys_created_on>
         <sys_id>108ad45883694210129055b6feaad321</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:00:15</sys_updated_on>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <ui_id>42b859a0-a571-4fe6-aed8-b9d530a3a289</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1190,10 +1202,10 @@ foi autorizada. </value>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:36:09</sys_created_on>
         <sys_id>d48ad45883694210129055b6feaad316</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="Visitas">097bc36683910210129055b6feaad3b7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-09 17:00:15</sys_updated_on>
+        <sys_updated_on>2024-04-16 22:39:14</sys_updated_on>
         <ui_id>71f1f16a-01f3-4901-a125-ac5c7cd5b4be</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
